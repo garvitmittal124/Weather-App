@@ -1,0 +1,24 @@
+html,
+body {
+  overflow-x: hidden;
+}
+
+.video-rain {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  z-index: -1;
+}
+
+.color {
+  color: rgb(224, 202, 202);
+  text-align: center;
+}
+
+.navtextcolor {
+  color: darkgrey;
+}
+
+.navcolor {
+  color: lightgrey;
+}
